@@ -1,0 +1,123 @@
+p {
+	color: pink;
+}
+
+.colorido {
+	color: red;
+}
+
+#paragrafo {
+		color: yellow;
+}
+
+main h2 {
+	color: purple;
+}
+
+main < h2 {
+	color: black;
+}
+
+.exemplo1:hover{
+	background-color: lightblue;
+}
+
+.exemplo2:focus{
+	background-color: lightpink;
+}
+
+.exemplo3:active {
+	background-color: lightgreen;
+}
+
+li:first-child {
+	color: green;
+}
+
+li:last-child {
+	color: purple;
+}
+
+li:nth-child(3) {
+	color: lightgreen;
+}
+
+li:nth-child(even) {
+	color: red;
+}
+
+.exemplo4::after{
+	content: "DEPOIS";
+}
+
+.exemplo4::before{
+	content: "ANTES";
+}
+
+.exemplo5 {
+	color: blue;
+}
+
+.exemplo6 {
+	color: rgb(255,0,0);
+}
+
+.exemplo7 {
+	color: rgb(0,255,0);
+}
+
+.exemplo8 {
+	color: rgb(0,0,255);
+}
+
+.exemplo9 {
+	color: rgb(255,71,212);
+}
+
+.exemplo10 {
+	color: #0000ff;
+}
+
+.exemplo11 {
+	width: 150px; /* Largura em pixels */
+	height: 150px; /* Altura em pixels */
+}
+.exemplo12 {
+	width: 100%; /* Largura em % (flexível)
+					Tamanho relativo ao pai do elemento */
+}
+
+.pai {
+	width: 300px;
+	height: 300px;
+	background-color: blue;
+}
+
+.filho {
+	height: 50%;
+}
+
+/*Informamos várias para evitar fontes muito diferentes
+da nossa ideia.*/
+/*O melhor é fazer a importação da fonte no HTML*/
+
+.texto {
+	font-family: font-family: 'Poppins', sans-serif;
+}
+
+.texto1 {
+	background-color: green;
+	display: inline;
+}
+
+.texto2 {
+	background-color: green;
+	display: block;
+}
+
+.linkk{
+	background-color: pink;
+	padding: 15px;
+	display: inline-block.;
+}
+
