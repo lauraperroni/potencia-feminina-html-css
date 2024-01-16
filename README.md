@@ -2,6 +2,7 @@
 
 Repositório para armazenar todas as anotações do curso de HTML5 e CSS3 da Potência Feminina.
 
-Todas as anotações aparecem no index.html por enquanto, futuramente quero organizar melhor em um arquivo .md 
+Todas as anotações deste curso encontram-se em um arquivo .md neste repositório. 
 
 ### [Acesse aqui a página index](https://lauraperroni.github.io/potencia-feminina-html-css/)
+
